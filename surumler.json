@@ -15,6 +15,10 @@
         {
             "versiyon": "3.14",
             "durum": "geliştirme asamasinda"
+        },
+        {
+            "versiyon": "3.15",
+            "durum": "yeni cıkan"
         }
     ]
 }
