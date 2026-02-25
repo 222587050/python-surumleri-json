@@ -1,16 +1,20 @@
 {
-  "python_surumleri": [
-    {
-      "versiyon": "3.11",
-      "durum": "Kararlı (Stable)"
-    },
-    {
-      "versiyon": "3.12",
-      "durum": "Kararlı (Stable)"
-    },
-    {
-      "versiyon": "3.13",
-      "durum": "Kararlı (Stable)"
-    }
-  ]
+    "python_surumleri": [
+        {
+            "versiyon": "3.11",
+            "durum": "Kararlı (Stable)"
+        },
+        {
+            "versiyon": "3.12",
+            "durum": "Kararlı (Stable)"
+        },
+        {
+            "versiyon": "3.13",
+            "durum": "Kararlı (Stable)"
+        },
+        {
+            "versiyon": "3.14",
+            "durum": "geliştirme asamasinda"
+        }
+    ]
 }
