@@ -1,6 +1,6 @@
 import json
 
-dosya_adi='devcontainer.json'
+dosya_adi = 'surumler.json'
 
 with open(dosya_adi, 'r', encoding='utf-8') as dosya:
   veriler = json.load(dosya)
