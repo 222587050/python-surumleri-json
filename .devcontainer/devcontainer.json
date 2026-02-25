@@ -1,0 +1,17 @@
+{
+  "name": "Yapay Zeka ve Çoklu Python Ortamı",
+  "image": "mcr.microsoft.com/devcontainers/miniconda:0-3",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/opt/conda/bin/python"
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}
